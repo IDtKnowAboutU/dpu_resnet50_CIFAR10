@@ -1,0 +1,2 @@
+# dpu_resnet50_CIFAR10_zcu104
+在zcu104上安装了pynq-dpu，直接使用官方提供的dpu，模型训练使用的是CIFAR-10，通过vitis ai工具进行量化和针对zcu104平台的编译。
